@@ -3,7 +3,7 @@
 <head>
   <meta charset="UTF-8">
   <title>bioSite | Landing Page</title>
-  <link rel="stylesheet" href="biowebsite">
+  <link rel="stylesheet" href="biowebsite.css">
 </head>
 <body>
   <header>
