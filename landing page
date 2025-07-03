@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
   <meta charset="UTF-8">
-  <title>bioSite | Landing Page</title>
+  <title> Landing Page</title>
   <link rel="stylesheet" href="biowebsite.css">
 </head>
 <body>
@@ -13,7 +13,7 @@
 
   <div>
     <h3>Introduction</h3>
-    <p>This is the story of someone I admire.</p>
+    <p>This is the story of someone I admire. My father has been a huge inspiration to everyone in our family, including myself. Every decision he makes, has been inspirational and motivading to others.</p>
   </div>
 
   <footer>
