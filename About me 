@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title> About me</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <header>
+    <h1>About the Person</h1>
+    <h2>Background & Journey</h2>
+  </header>
+
+  <div>
+    <h3>Bio</h3>
+    <p>Born and raised in Dallas, Texas, Marcus grew up in a lively household with six siblings under one roof. Life in Oak Cliff wasn’t always easy, but it gave him stories, resilience, and deep roots. As the youngest in the family, he often felt the brunt of his father’s discipline—yet it’s that very guidance that helped shape who he is today. His father, a respected pillar in the community, set the bar high, and Marcus strived to meet it with pride.
+        From an early age, Marcus found peace in working with his hands and joy on the football and basketball courts. His first job at a grocery store taught him not just patience, but the value of treating people with kindness and respect. After dedicating over 30 years of service to his career, Marcus is now retired, and loving it. 
+    </p>
+  </div>
+
+  <footer>
+    <p>&copy; 2025 Colby King</p>
+  </footer>
+</body>
+</html>

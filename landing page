@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>bioSite | Landing Page</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <header>
+    <h1> Living Legend </h1>
+    <h2>Home</h2>
+  </header>
+
+  <div>
+    <h3>Introduction</h3>
+    <p>This is the story of someone I admire.</p>
+  </div>
+
+  <footer>
+    <p>&copy; 2025 Colby King</p>
+  </footer>
+</body>
+</html>

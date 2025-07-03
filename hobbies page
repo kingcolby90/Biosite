@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title> Hobbies</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <header>
+    <h1>Hobbies & Interests</h1>
+    <h2></h2>
+  </header>
+
+  <div>
+    <h3>Activities</h3>
+    <p>These days, you’ll find him enjoying card games or spending time with his grandkids, cherishing every laugh and shared moment.
+        He’s also working on a project car with his son, a hobby that’s both challenging and meaningful, offering them time together and a shared goal. While Marcus sometimes misses the camaraderie of work, he’s embracing the slower rhythm of life and all that comes with it. A proud veteran and family man, he holds tight to one core belief: treat others the way you want to be treated. For Marcus, values, character, and integrity are the true measures of a man.
+    </p>
+  </div>
+
+  <footer>
+    <p>&copy; 2025 Colby King</p>
+  </footer>
+</body>
+</html>
